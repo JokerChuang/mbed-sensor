@@ -1,7 +1,7 @@
 
 ## 溫度感測器搭配四位數顯示器
 
-* 實作簡易環境溫度感測器並將及時監控的溫度顯示在LED顯示器上．
+* 實作簡易環境溫度感測器並將即時監控的溫度顯示在LED顯示器上．
 
 ## 電子零件介紹
 
@@ -59,4 +59,6 @@ int main()
 * 由程式碼定義 Arch Pro 的第二顆 Led 紅燈閃爍來簡易判斷是否有正常執行運作。
 ![圖3：溫度監控即時顯示LED實作](/Users/Joker/Downloads/temperature_detector_prototype.jpg)
 
+## 參考資源
+* http://developer.mbed.org/users/djbottrill/code/Grove_Thermometer/
 
